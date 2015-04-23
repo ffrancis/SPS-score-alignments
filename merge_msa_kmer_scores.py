@@ -2,7 +2,7 @@
 
 '''
 Compiled by		:	Felix Francis (felixfrancier@gmail.com)
-Description		:	merge kmer tables
+Description		:	merge kmer tables. First rename the headers based on the kmer size used. Then use PANDAS to merge the msa score files for each kmer sizes.
 Requirements	:	Python 2.7, R
 '''
 
